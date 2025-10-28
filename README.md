@@ -1,0 +1,2 @@
+# MediSharp-AI
+high_resolution_image_generator_Project
